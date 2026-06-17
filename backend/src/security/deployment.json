@@ -1,0 +1,9 @@
+{
+  "network": "https://eth-sepolia.g.alchemy.com/v2/Ktbe1IaXuxycQpVijMFZw",
+  "deployedAt": "2026-05-05T17:39:04.553Z",
+  "deployer": "0x58EA1626E480076Ab3393B59993FdbD5e8913717",
+  "contracts": {
+    "ElectionFactory": "0x11B67EF516Cd4F7eBb139f1372E006d5Dd2E9185",
+    "Voting": "0x13f6Cc384cc255b9b85990E20261d7962A82ED7a"
+  }
+}

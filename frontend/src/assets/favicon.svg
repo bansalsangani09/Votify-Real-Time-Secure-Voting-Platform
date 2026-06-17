@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <defs>
+    <linearGradient id="faviconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Simplified V + Checkmark Icon -->
+  <path 
+    d="M6 10 C6 18 12 26 16 28 C20 26 26 18 26 10 L22 10 C22 16 18 22 16 23 C14 22 10 16 10 10 Z" 
+    fill="url(#faviconGrad)" 
+  />
+  <path 
+    d="M16 23 L28 6 L30 8 L16 27 L10 21 L12 19 Z" 
+    fill="#06b6d4" 
+  />
+</svg>
